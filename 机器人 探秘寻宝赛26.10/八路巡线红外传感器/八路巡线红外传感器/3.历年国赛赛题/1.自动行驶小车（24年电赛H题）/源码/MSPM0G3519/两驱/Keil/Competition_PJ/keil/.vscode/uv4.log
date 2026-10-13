@@ -1,0 +1,7 @@
+Load "..\\OBJ\\empty.axf" 
+Info: Debug/System power-up request sent 
+Info: executing SWD power up 
+Info: Current state of access point is: 80027 
+Info: Current state of access point is: 79002f 
+Erase Done.Programming Done.Verify OK.Application running ...
+Flash Load finished at 19:55:50
